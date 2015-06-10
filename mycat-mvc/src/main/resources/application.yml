@@ -1,0 +1,8 @@
+# Server settings (ServerProperties)
+server:
+  port: 8123
+  
+spring:
+  jackson:
+    serialization:
+      indent_output: true
